@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="wallace_multiplier.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="wallace4bit.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="wallace4bit.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="wallace4bit.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="wallace4bit.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="wallace4bit.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="wallace4bit.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="wallace4bit.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="wallace4bit.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="wallace4bit.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="wallace4bit.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="wallace4bit.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="wallace4bit.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="wallace4bit.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="wallace4bit.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="wallace4bit.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="wallace4bit.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="wallace4bit.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="wallace4bit.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="wallace4bit.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="wallace4bit_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="wallace4bit_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="wallace4bit_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="wallace4bit_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="wallace4bit_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="wallace4bit_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="wallace4bit_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="wallace4bit_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="wallace4bit_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="wallace4bit_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="wallace4bit_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="wallace4bit_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="wallace4bit_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="wallace4bit_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="wallace4bit_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="wallace4bittestbench_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="wallace4bittestbench_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="wallace4bittestbench_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="wallace4bittestbench_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1570817692" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1570817692">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817716" xil_pn:in_ck="-2796384983252729920" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1570817716">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="wallace4bit.v"/>
+      <outfile xil_pn:name="wallace4bittestbench.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817719" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="6150625912654693475" xil_pn:start_ts="1570817719">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817719" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="1660946238368184165" xil_pn:start_ts="1570817719">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817719" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="1318895994713541854" xil_pn:start_ts="1570817719">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817719" xil_pn:in_ck="-2796384983252729920" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1570817719">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="wallace4bit.v"/>
+      <outfile xil_pn:name="wallace4bittestbench.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817721" xil_pn:in_ck="-2796384983252729920" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-2141366060794379225" xil_pn:start_ts="1570817719">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="wallace4bittestbench_beh.prj"/>
+      <outfile xil_pn:name="wallace4bittestbench_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817721" xil_pn:in_ck="2356273583492788635" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="7967010131975839786" xil_pn:start_ts="1570817721">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="wallace4bittestbench_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817451" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1570817451">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817451" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="2085777010211954437" xil_pn:start_ts="1570817451">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817451" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="1318895994713541854" xil_pn:start_ts="1570817451">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817451" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1570817451">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817451" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="1127602038993745667" xil_pn:start_ts="1570817451">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817451" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="2988080280845075520" xil_pn:start_ts="1570817451">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817451" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-4624765553812929112" xil_pn:start_ts="1570817451">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817457" xil_pn:in_ck="637815544610866256" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="-6323796184988452347" xil_pn:start_ts="1570817451">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="wallace4bit.lso"/>
+      <outfile xil_pn:name="wallace4bit.ngc"/>
+      <outfile xil_pn:name="wallace4bit.ngr"/>
+      <outfile xil_pn:name="wallace4bit.prj"/>
+      <outfile xil_pn:name="wallace4bit.stx"/>
+      <outfile xil_pn:name="wallace4bit.syr"/>
+      <outfile xil_pn:name="wallace4bit.xst"/>
+      <outfile xil_pn:name="wallace4bit_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817457" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-5800286820807617234" xil_pn:start_ts="1570817457">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817462" xil_pn:in_ck="-6395146719729613838" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="7961920291159584961" xil_pn:start_ts="1570817457">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="wallace4bit.bld"/>
+      <outfile xil_pn:name="wallace4bit.ngd"/>
+      <outfile xil_pn:name="wallace4bit_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817466" xil_pn:in_ck="-6395146719729613837" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="-873285459045022562" xil_pn:start_ts="1570817462">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="wallace4bit.pcf"/>
+      <outfile xil_pn:name="wallace4bit_map.map"/>
+      <outfile xil_pn:name="wallace4bit_map.mrp"/>
+      <outfile xil_pn:name="wallace4bit_map.ncd"/>
+      <outfile xil_pn:name="wallace4bit_map.ngm"/>
+      <outfile xil_pn:name="wallace4bit_map.xrpt"/>
+      <outfile xil_pn:name="wallace4bit_summary.xml"/>
+      <outfile xil_pn:name="wallace4bit_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817473" xil_pn:in_ck="225226347344991372" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="1934304854298957634" xil_pn:start_ts="1570817466">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="wallace4bit.ncd"/>
+      <outfile xil_pn:name="wallace4bit.pad"/>
+      <outfile xil_pn:name="wallace4bit.par"/>
+      <outfile xil_pn:name="wallace4bit.ptwx"/>
+      <outfile xil_pn:name="wallace4bit.unroutes"/>
+      <outfile xil_pn:name="wallace4bit.xpi"/>
+      <outfile xil_pn:name="wallace4bit_pad.csv"/>
+      <outfile xil_pn:name="wallace4bit_pad.txt"/>
+      <outfile xil_pn:name="wallace4bit_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1570817473" xil_pn:in_ck="-6395146719729613969" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416187" xil_pn:start_ts="1570817470">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="wallace4bit.twr"/>
+      <outfile xil_pn:name="wallace4bit.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>

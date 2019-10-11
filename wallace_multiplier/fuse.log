@@ -1,0 +1,24 @@
+Running: /opt/Xilinx/13.4/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o /home/ahish/Desktop/Assignment-4/wallace_multiplier/wallace4bittestbench_isim_beh.exe -prj /home/ahish/Desktop/Assignment-4/wallace_multiplier/wallace4bittestbench_beh.prj work.wallace4bittestbench work.glbl 
+ISim O.87xd (signature 0x8ddf5b5d)
+Number of CPUs detected in this system: 3
+Turning on mult-threading, number of parallel sub-compilation jobs: 6 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/ahish/Desktop/Assignment-4/wallace_multiplier/wallace4bit.v" into library work
+Analyzing Verilog file "/home/ahish/Desktop/Assignment-4/wallace_multiplier/wallace4bittestbench.v" into library work
+Analyzing Verilog file "/opt/Xilinx/13.4/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95048 KB
+Fuse CPU Usage: 880 ms
+Compiling module halfadder
+Compiling module fulladder
+Compiling module wallace4bit
+Compiling module wallace4bittestbench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 Verilog Units
+Built simulation executable /home/ahish/Desktop/Assignment-4/wallace_multiplier/wallace4bittestbench_isim_beh.exe
+Fuse Memory Usage: 524152 KB
+Fuse CPU Usage: 900 ms
+GCC CPU Usage: 380 ms

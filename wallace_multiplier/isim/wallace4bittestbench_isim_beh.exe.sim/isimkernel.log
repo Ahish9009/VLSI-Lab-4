@@ -1,0 +1,29 @@
+Command line:
+   wallace4bittestbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  34973
+
+Fri Oct 11 23:45:23 2019
+
+
+ Elaboration Time: 0 sec
+
+ Current Memory Usage: 181.654 Meg
+
+ Total Signals          : 94
+ Total Nets             : 74
+ Total Signal Drivers   : 36
+ Total Blocks           : 15
+ Total Primitive Blocks : 13
+ Total Processes        : 46
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 162
+Total Line Count : 55
+
+ Total Simulation Time: 0 sec
+
+ Current Memory Usage: 257.155 Meg
+
+Fri Oct 11 23:52:26 2019
+
