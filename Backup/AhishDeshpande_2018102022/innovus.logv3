@@ -1,0 +1,81 @@
+[10/12 01:22:33      0s] 
+[10/12 01:22:33      0s] Cadence Innovus(TM) Implementation System.
+[10/12 01:22:33      0s] Copyright 2016 Cadence Design Systems, Inc. All rights reserved worldwide.
+[10/12 01:22:33      0s] 
+[10/12 01:22:33      0s] Version:	v16.21-s078_1, built Fri Jan 20 14:00:53 PST 2017
+[10/12 01:22:33      0s] Options:	
+[10/12 01:22:33      0s] Date:		Sat Oct 12 01:22:33 2019
+[10/12 01:22:33      0s] Host:		client02 (x86_64 w/Linux 2.6.32-696.el6.x86_64) (4cores*4cpus*Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz 6144KB)
+[10/12 01:22:33      0s] OS:		Red Hat Enterprise Linux Server release 6.9 (Santiago)
+[10/12 01:22:33      0s] 
+[10/12 01:22:33      0s] License:
+[10/12 01:22:33      0s] 		invs	Innovus Implementation System	16.2	Denied
+[10/12 01:22:33      0s] 		invsb	Innovus Implementation System Basic	16.2	checkout succeeded
+[10/12 01:22:33      0s] 		4 CPU jobs allowed with the current license(s). Use setMultiCpuUsage to set your required CPU count.
+[10/12 01:22:39      6s] @(#)CDS: Innovus v16.21-s078_1 (64bit) 01/20/2017 14:00 (Linux 2.6.18-194.el5)
+[10/12 01:22:39      6s] @(#)CDS: NanoRoute 16.21-s078_1 NR170119-1828/16_21-UB (database version 2.30, 368.6.1) {superthreading v1.37}
+[10/12 01:22:39      6s] @(#)CDS: AAE 16.21-e024 (64bit) 01/20/2017 (Linux 2.6.18-194.el5)
+[10/12 01:22:39      6s] @(#)CDS: CTE 16.21-s038_1 () Jan 19 2017 09:01:24 ( )
+[10/12 01:22:39      6s] @(#)CDS: SYNTECH 16.21-s013_1 () Jan 14 2017 08:40:50 ( )
+[10/12 01:22:39      6s] @(#)CDS: CPE v16.21-s075
+[10/12 01:22:39      6s] @(#)CDS: IQRC/TQRC 15.2.7-s638 (64bit) Wed Jan  4 19:58:15 PST 2017 (Linux 2.6.18-194.el5)
+[10/12 01:22:39      6s] @(#)CDS: OA 22.50-p051 Thu Aug  4 00:05:16 2016
+[10/12 01:22:39      6s] @(#)CDS: SGN 10.10-p124 (19-Aug-2014) (64 bit executable)
+[10/12 01:22:39      6s] @(#)CDS: RCDB 11.8
+[10/12 01:22:39      6s] --- Running on client02 (x86_64 w/Linux 2.6.32-696.el6.x86_64) (4cores*4cpus*Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz 6144KB) ---
+[10/12 01:22:39      6s] Create and set the environment variable TMPDIR to /tmp/innovus_temp_5597_client02_root_7GtH2n.
+
+[10/12 01:22:40      6s] 
+[10/12 01:22:40      6s] **INFO:  MMMC transition support version v31-84 
+[10/12 01:22:40      6s] 
+[10/12 01:22:40      6s] <CMD> set_global _enable_mmmc_by_default_flow      $CTE::mmmc_default
+[10/12 01:22:40      6s] <CMD> suppressMessage ENCEXT-2799
+[10/12 01:22:40      6s] <CMD> getVersion
+[10/12 01:22:40      6s] <CMD> getVersion
+[10/12 01:22:40      6s] Loading fill procedures ...
+[10/12 01:22:40      7s] <CMD> getDrawView
+[10/12 01:22:40      7s] <CMD> loadWorkspace -name Physical
+[10/12 01:22:40      7s] <CMD> win
+[10/12 01:23:17     11s] <CMD> set ::TimeLib::tsgMarkCellLatchConstructFlag 1
+[10/12 01:23:17     11s] <CMD> set _timing_library_enable_mt_flow 0
+[10/12 01:23:17     11s] <CMD> set conf_ioOri R0
+[10/12 01:23:17     11s] <CMD> set conf_qxconf_file NULL
+[10/12 01:23:17     11s] <CMD> set conf_qxlib_file NULL
+[10/12 01:23:17     11s] <CMD> set conf_row_height 2.610000
+[10/12 01:23:17     11s] <CMD> set dcgHonorSignalNetNDR 1
+[10/12 01:23:17     11s] <CMD> set defHierChar /
+[10/12 01:23:17     11s] Set Default Input Pin Transition as 0.1 ps.
+[10/12 01:23:17     11s] <CMD> set delaycal_input_transition_delay 0.1ps
+[10/12 01:23:17     11s] <CMD> set distributed_client_message_echo 1
+[10/12 01:23:17     11s] <CMD> set fpIsMaxIoHeight 0
+[10/12 01:23:17     11s] <CMD> set fp_core_height 26.100000
+[10/12 01:23:17     11s] <CMD> set fp_core_to_bottom 10.150000
+[10/12 01:23:17     11s] <CMD> set fp_core_to_left 10.150000
+[10/12 01:23:17     11s] <CMD> set fp_core_to_right 10.150000
+[10/12 01:23:17     11s] <CMD> set fp_core_to_top 10.150000
+[10/12 01:23:17     11s] <CMD> set fp_core_width 37.165000
+[10/12 01:23:17     11s] <CMD> set gpsPrivate::dpgNewAddBufsDBUpdate 1
+[10/12 01:23:17     11s] <CMD> set gpsPrivate::lsgEnableNewDbApiInRestruct 1
+[10/12 01:23:17     11s] <CMD> set gpsPrivate::oigCGFixOutOfCoreChannels 1
+[10/12 01:23:17     11s] <CMD> set gpsPrivate::oigPBAwareTopoMode 23
+[10/12 01:23:17     11s] <CMD> set gpsPrivate::oigTopoBCMode 0
+[10/12 01:23:17     11s] <CMD> set gpsPrivate::oigTopoUseBABInTopLvlNodesInOCP 1
+[10/12 01:23:17     11s] <CMD> set gpsPrivate::oigUseNewMaxBufDistAPI 1
+[10/12 01:23:17     11s] <CMD> set init_design_settop 0
+[10/12 01:23:17     11s] <CMD> set init_gnd_net VSS
+[10/12 01:23:17     11s] <CMD> set init_lef_file {lef/gsclib090_translated.lef lef/gsclib090_translated_ref.lef}
+[10/12 01:23:17     11s] <CMD> set init_mmmc_file Default.view
+[10/12 01:23:17     11s] <CMD> set init_oa_search_lib {}
+[10/12 01:23:17     11s] <CMD> set init_pwr_net VDD
+[10/12 01:23:17     11s] <CMD> set init_verilog wallace4bit.v
+[10/12 01:23:17     11s] <CMD> set pegDefaultResScaleFactor 1.000000
+[10/12 01:23:17     11s] <CMD> set pegDetailResScaleFactor 1.000000
+[10/12 01:23:17     11s] <CMD> set spgDecolorGeom 1
+[10/12 01:23:17     11s] <CMD> set timing_library_float_precision_tol 0.000010
+[10/12 01:23:17     11s] <CMD> set timing_library_load_pin_cap_indices {}
+[10/12 01:23:17     11s] <CMD> set tso_post_client_restore_command {update_timing ; write_eco_opt_db ;}
+[10/12 01:23:28     12s] 
+[10/12 01:23:28     12s] *** Memory Usage v#1 (Current mem = 533.047M, initial mem = 174.426M) ***
+[10/12 01:23:28     12s] *** Message Summary: 0 warning(s), 0 error(s)
+[10/12 01:23:28     12s] 
+[10/12 01:23:28     12s] --- Ending "Innovus" (totcpu=0:00:12.7, real=0:00:55.0, mem=533.0M) ---

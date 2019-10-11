@@ -1,0 +1,2 @@
+define worklib /root/ASIC_DESIGN/VLSI_DESIGN_2019/AhishDeshpande_2018102022/INCA_libs/worklib
+include $CDS_INST_DIR/tools/inca/files/cds.lib

@@ -1,0 +1,88 @@
+Begin Static Power Report Generation
+*----------------------------------------------------------------------------------------
+*	Innovus 16.21-s078_1 (64bit) 01/20/2017 14:00 (Linux 2.6.18-194.el5)
+*	
+*
+* 	Date & Time:	2019-Oct-12 01:33:51 (2019-Oct-11 20:03:51 GMT)
+*
+*----------------------------------------------------------------------------------------
+*
+*	Design: wallace4bit
+*
+*	Liberty Libraries used:
+*	        Worst: lib/90/slow.lib
+*
+*	Power Domain used:
+*		Rail:        VDD 	Voltage:        0.9
+*
+*       Power View : Worst
+*
+*       User-Defined Activity : N.A.
+*
+*       Activity File: N.A.
+*
+*       Hierarchical Global Activity: N.A.
+*
+*       Global Activity: N.A.
+*
+*       Sequential Element Activity: 0.200000
+*
+*       Primary Input Activity: 0.200000
+*
+*       Default icg ratio: N.A.
+*
+*       Global Comb ClockGate Ratio: N.A.
+*
+*	Power Units = 1mW
+*
+*	Time Units = 1e-09 secs
+*
+*       report_power
+*
+-----------------------------------------------------------------------------------------
+
+
+Total Power
+-----------------------------------------------------------------------------------------
+Total Internal Power:        0.00397702 	   55.2182%
+Total Switching Power:       0.00176946 	   24.5678%
+Total Leakage Power:         0.00145589 	   20.2140%
+Total Power:                 0.00720237
+-----------------------------------------------------------------------------------------
+
+
+Group                           Internal   Switching     Leakage       Total  Percentage 
+                                Power      Power         Power         Power  (%)        
+-----------------------------------------------------------------------------------------
+Sequential                             0           0           0           0           0
+Macro                                  0           0           0           0           0
+IO                                     0           0           0           0           0
+Combinational                   0.003977    0.001769    0.001456    0.007202         100
+Clock (Combinational)                  0           0           0           0           0
+Clock (Sequential)                     0           0           0           0           0
+-----------------------------------------------------------------------------------------
+Total                           0.003977    0.001769    0.001456    0.007202         100
+-----------------------------------------------------------------------------------------
+
+
+Rail                  Voltage   Internal   Switching     Leakage       Total  Percentage 
+                                Power      Power         Power         Power  (%)        
+-----------------------------------------------------------------------------------------
+VDD                       0.9   0.003977    0.001769    0.001456    0.007202         100
+ 
+ 
+-----------------------------------------------------------------------------------------
+*	Power Distribution Summary: 
+* 		Highest Average Power:                     F6/g2 (ADDFX1): 	 0.0005116
+* 		Highest Leakage Power:                    H4/g17 (ADDHXL): 	 8.696e-05
+* 		Total Cap: 	2.13555e-13 F
+* 		Total instances in design:    28
+* 		Total instances in design with no power:     0
+*                Total instances in design with no activty:     0
+
+* 		Total Fillers and Decap:     0
+-----------------------------------------------------------------------------------------
+ 
+Ended Static Power Report Generation: (cpu=0:00:00, real=0:00:00,
+mem(process/total)=1090.76MB/1090.76MB)
+
