@@ -1,0 +1,17 @@
+net 'A[3]' loc='R17';
+net 'A[2]' loc='N17';
+net 'A[1]' loc='L13';
+net 'A[0]' loc='L14';
+net 'B[3]' loc='K17';
+net 'B[2]' loc='K18';
+net 'B[1]' loc='H18';
+net 'B[0]' loc='G18';
+net 'product[7]' loc='R4';
+net 'product[6]' loc='F4';
+net 'product[5]' loc='P15';
+net 'product[4]' loc='E17';
+net 'product[3]' loc='K14';
+net 'product[2]' loc='K15';
+net 'product[1]' loc='J15';
+net 'product[0]' loc='J14';
+
